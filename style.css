@@ -1,8 +1,17 @@
 
 body{
-    background-color: #7E7E7E;
+    background-color: #305050;
     color: white;
     text-align: center;
     font-size: 20px;
     padding: 0 24px;
+}
+
+.texto-um{
+    color: #ffa500;
+    font-size: 24px;
+}
+.texto-dois{
+    color: #ffa500;
+    font-size: 24px;
 }
