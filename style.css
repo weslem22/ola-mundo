@@ -11,7 +11,33 @@ body{
     color: #ffa500;
     font-size: 24px;
 }
+
 .texto-dois{
     color: #ffa500;
     font-size: 24px;
 }
+
+.paragrafo{
+    font-size: 20px;
+}
+
+.rodape{
+    text-align: center;
+    display: grid;
+    font-size: 18px;
+    color: #0dffbf;
+}
+
+.imagem{
+    width: 60%;
+}
+
+.linha{
+    border-bottom: 1px solid #808080;
+    border-top: 1px solid #808080;
+}
+
+
+
+
+
