@@ -1,43 +1,32 @@
-
 body{
-    background-color: #305050;
-    color: white;
-    text-align: center;
-    font-size: 20px;
-    padding: 0 24px;
+background-color: rgb(255, 255, 255);
+text-align: center;
+.titulo{
+    color: black;
+    font-size: 50px;
 }
 
-.texto-um{
-    color: #ffa500;
-    font-size: 24px;
+.subtitulo{
+    font-size: 190%;
+color: rgb(72, 245, 4);
+
 }
 
-.texto-dois{
-    color: #ffa500;
-    font-size: 24px;
+.texto1{
+text-align:center ;
+font-size: 20px;
+color: black;
 }
 
-.paragrafo{
-    font-size: 20px;
+
+.imagem1{
+width: 600px;
 }
 
-.rodape{
-    text-align: center;
-    display: grid;
-    font-size: 18px;
-    color: #0dffbf;
-}
-
-.imagem{
-    width: 60%;
-}
-
-.linha{
-    border-bottom: 1px solid #808080;
-    border-top: 1px solid #808080;
+.imagem2{
+    width: 600px;
 }
 
 
 
-
-
+}
